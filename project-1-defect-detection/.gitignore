@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Dataset
+data/*
+!data/.gitkeep
+
+# Results
+results/*
+!results/.gitkeep
+
+# Models
+models/*
+!models/.gitkeep
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
