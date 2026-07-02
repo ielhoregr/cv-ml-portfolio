@@ -84,11 +84,11 @@ The model was trained on a publicly available PCB defect dataset containing appr
 
 ### Home Interface
 
-![Application Screenshot](assets/demo1.png)
+![Application Screenshot](results/demo1.png)
 
 ### Detection Example
 
-![Detection Screenshot](assets/demo2.png)
+![Detection Screenshot](results/demo2.png)
 
 ---
 
